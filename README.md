@@ -3,6 +3,6 @@ StepperStack is a general purpose stepper motor driver, with integrated motion c
 
 This repo contains:
 
-3D CAD model
-User Guide .pdf
-Arduino sketch
+    3D CAD model
+    User Guide .pdf
+    Arduino sketch
